@@ -201,4 +201,7 @@ section.secondary {
   section {
     padding: 30px;
   }
+  .header-for-card {
+    margin: 0;
+  }
 }
